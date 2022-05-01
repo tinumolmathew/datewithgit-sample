@@ -1,2 +1,6 @@
 Hello Dear
+<<<<<<< HEAD
 Am tinumolmathew
+=======
+This is for feature branch
+>>>>>>> feature
